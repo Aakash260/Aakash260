@@ -10,19 +10,19 @@
 
 - 🌱 I’m currently learning **jest**
 
-- 👯 I’m looking to collaborate on **Congif-drven-H&M**
+- 👯 I’m looking to collaborate on **Congif-driven-H&M**
 
 - 🤝 I’m looking for help with **Optimization techniques**
 
-- 👨‍💻 All of my projects are available at [portfoolio link](portfoolio link)
+- 👨‍💻 All of my projects are available at https://akash26-react-portfolio.netlify.app/
 
-- 💬 Ask me about **React,Redux,TailwindCSS,Optimization**
+- 💬 Ask me about **React, Redux,TailwindCSS, Optimization**
 
 - 📫 How to reach me **akashnirwan26@gmail.com**
 
 - 📄 Know about my experiences [resume link](resume link)
 
-- ⚡ Fun fact **When i working on project i feel like i am hired for it.**
+- ⚡ Fun fact **When I work on project I feel like I am hired for it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
