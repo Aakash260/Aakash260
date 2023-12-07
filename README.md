@@ -2,7 +2,7 @@
  ![logo](https://github.com/Aakash260/Aakash260/blob/main/linkedbanner.jpeg)
  
  <h1 align="center">Hi 👋, I'm Aakash Nirwan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
  
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at https://akash26-react-portfolio.netlify.app/
 
-- 💬 Ask me about **React, Redux,TailwindCSS, Optimization**
+- 💬 Ask me about **React, Redux,TailwindCSS,Nodejs,MONGO Optimization**
 
 - 📫 How to reach me **akashnirwan26@gmail.com**
 
